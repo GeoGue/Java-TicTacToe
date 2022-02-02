@@ -1,10 +1,6 @@
 /*
- * Name: Ana (Gina) Guerra
+ * Name: Gina Guerra
  * Date: 10/1/2018
- * Course Number: CSC-220
- * Course Name: Data Structures
- * Problem Number: HW4
- * Email: anageorginaguerra@yahoo.com
  * Description: allows user to play tic tac toe using their keyboard with the accompanying
  * TicTacToe.java class
  */
